@@ -11,9 +11,9 @@ Este proyecto es una base de datos para la gestión de información escolar. Per
 
 ## Tecnologías Utilizadas
 
-- **Lenguaje de Programación:** [Especificar lenguaje de programación principal, por ejemplo, Python, Java, etc.]
-- **Base de Datos:** [Especificar el sistema de gestión de bases de datos, por ejemplo, MySQL, PostgreSQL, etc.]
-- **Frameworks y Librerías:** [Especificar cualquier framework o librería utilizada, por ejemplo, Django, Flask, etc.]
+- **Lenguaje de Programación:** C#
+- **Base de Datos:** SQL Server
+- **Frameworks y Librerías:** .NET FRAMEWORK
 
 ## Instalación
 
